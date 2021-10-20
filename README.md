@@ -16,7 +16,9 @@ lesson materials for following courses / branches:
 ```
 notebooks/
     spatial-analytics/
-        L1-notebook.ipynb
-        L2-notebook.ipynb
+        Lesson-1/
+            L1-notebook.ipynb
+        Lesson-2/
+            L2-notebook.ipynb
         etc.
 ```
